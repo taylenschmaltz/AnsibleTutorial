@@ -7,7 +7,7 @@
 
   - name: install apache2 package and php packages for Ubuntu
     apt:
-      name:
+      package:
         - apache2
         - libapache2-mod-php
       state: latest
