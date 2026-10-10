@@ -7,3 +7,5 @@
 [file_servers]
 10.0.0.54 
 
+[workstations]
+10.0.0.63
