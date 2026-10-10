@@ -1,3 +1,9 @@
+[web_servers]
 10.0.0.220
+
+[db_servers]
 10.0.0.84 
+
+[file_servers]
 10.0.0.54 
+
